@@ -1,4 +1,4 @@
 # About-me
-I have much love for numbers
-I enjoy learning new things
-I am an extrovert 
+I aspire to be a Cloud Sercurity Engineer
+I enjoy reality TV shows
+I am an Introvert 
