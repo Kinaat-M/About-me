@@ -1,2 +1,4 @@
 # About-me
-Three interesting facts about me
+I am much love for numbers
+I enjoy learning new things
+I am an extrovert 
